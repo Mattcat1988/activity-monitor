@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+Flask-WTF
+Flask-Login
+ldap3
+requests
+Flask-Migrate
